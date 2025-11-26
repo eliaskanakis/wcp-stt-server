@@ -5,7 +5,7 @@ Lightweight FastAPI WebSocket service for streaming speech-to-text with Vosk and
 - Frontend repo: https://github.com/eliaskanakis/wcp-frontend  
 - Chat server repo: https://github.com/eliaskanakis/wcp-chat-server  
 - Live frontend: https://wrh-coord-platform.web.app/  
-- Demo video: https://youtu.be/VIDEO_PLACEHOLDER
+- Demo video: https://www.youtube.com/watch?v=nZzlvX0EO1A
 
 ## Run locally
 1) Install Python 3.11, create and activate `.venv`.
